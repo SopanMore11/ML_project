@@ -3,4 +3,5 @@ numpy
 seaborn
 xgboost
 scikit-learn
+dill
 # -e .
